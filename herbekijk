@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beste Belgische Herbekijkwebsites</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0078D7;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .platform {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #fafafa;
+        }
+        .platform h2 {
+            margin: 0 0 10px 0;
+            color: #0078D7;
+        }
+        .platform p {
+            margin: 0 0 10px 0;
+        }
+        .platform a {
+            display: inline-block;
+            text-decoration: none;
+            color: white;
+            background-color: #0078D7;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+        .platform a:hover {
+            background-color: #005bb5;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Beste Belgische Herbekijkwebsites</h1>
+    </header>
+    <div class="container">
+        <!-- VRT MAX -->
+        <div class="platform">
+            <h2>VRT MAX</h2>
+            <p>Herbekijk programma's van Eén, Canvas en Ketnet. Gratis toegankelijk met een account.</p>
+            <a href="https://www.vrt.be/vrtnu/" target="_blank">Bezoek VRT MAX</a>
+        </div>
+
+        <!-- GoPlay -->
+        <div class="platform">
+            <h2>GoPlay</h2>
+            <p>Geniet van programma's van Play4, Play5 en Play6. Gratis beschikbaar met reclame.</p>
+            <a href="https://www.goplay.be/" target="_blank">Bezoek GoPlay</a>
+        </div>
+
+        <!-- VTM GO -->
+        <div class="platform">
+            <h2>VTM GO</h2>
+            <p>Bekijk VTM-programma's, films en series. Gratis toegankelijk met registratie.</p>
+            <a href="https://www.vtmgo.be/" target="_blank">Bezoek VTM GO</a>
+        </div>
+
+        <!-- Sporza -->
+        <div class="platform">
+            <h2>Sporza</h2>
+            <p>Blijf op de hoogte van sportnieuws en bekijk hoogtepunten en uitzendingen opnieuw.</p>
+            <a href="https://sporza.be/" target="_blank">Bezoek Sporza</a>
+        </div>
+    </div>
+</body>
+</html>
